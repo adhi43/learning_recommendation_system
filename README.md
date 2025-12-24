@@ -59,6 +59,7 @@ Streamlit Web Application
 ## Dataset
 
 - **Source:** XuetangX MOOC Dataset (Kaggle)
+-  https://www.kaggle.com/datasets/anasnofal/mooc-data-xuetangx
 - **Type:** Implicit feedback (clicks, video views, problem solving, discussions)
 
 Each interaction consists of:
